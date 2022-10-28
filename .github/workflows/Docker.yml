@@ -18,4 +18,4 @@ jobs:
       
       with:
         username: beingsane
-        password:
+        password: ${{secrets.PASSWORD_DOCKER_HUB}}
