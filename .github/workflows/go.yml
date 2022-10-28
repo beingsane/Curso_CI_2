@@ -2,9 +2,9 @@ name: Go
 
 on:
   push:
-    branches: [ projeto_base ]
+    branches: [ Projeto_base ]
   pull_request:
-    branches: [ projeto_base ]
+    branches: [ Projeto_base ]
 
 jobs:
 
